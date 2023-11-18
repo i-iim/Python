@@ -1,0 +1,58 @@
+Roadmap
+https://roadmap.sh/python
+
+Basics:
+    Basic Syntax
+    Variables and Data Types
+    Conditionals
+    Type Casting, Exceptions
+    Functions, Builtin Functions
+
+Datastructures and Algotithms
+    Arrays und Linked List
+    Heaps, Stacks and Queues
+    Hash tables
+    Binary Search Trees
+    Recusion
+    Sorting Algotithms
+
+Advanced Topics
+    RegEx
+    Decorators
+    Labdas
+    OOP
+        Classes
+        Inheritance
+        Mathods, Dunder
+    Package Managers
+        PyPI
+        pip
+        Conda
+    more
+        List Comprehensions
+        Generator Expressions
+        Paradigms
+    Iteratiors
+    Modules
+        Builtin
+        Custom
+Learn a Framework
+    Synchronous
+        Django
+           Dlask
+           Pyramid
+       -Fast API-
+       Asynchronous
+           gevent
+           aiohttp
+           Tornado
+           Sanic
+Testing your Apps
+    doctest
+    nose
+    pytest
+    unittest/pyUnit
+
+-> Backend Roadmap/DevOps Roadmap
+        
+        
