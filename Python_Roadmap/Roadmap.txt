@@ -54,5 +54,3 @@ Testing your Apps
     unittest/pyUnit
 
 -> Backend Roadmap/DevOps Roadmap
-        
-        
